@@ -26,21 +26,21 @@ main {
 
 .box1-img {
   height: 150px;
-  background-image: url(img/flow01.png);
+  background-image: url(img1-9/flow01.png);
   background-size: cover;
   background-position: bottom;
 }
 
 .box2-img {
   height: 150px;
-  background-image: url(img/flow02.png);
+  background-image: url(img1-9/flow02.png);
   background-size: cover;
   background-position: bottom;
 }
 
 .box3-img {
   height: 150px;
-  background-image: url(img/flow03.png);
+  background-image: url(img1-9/flow03.png);
   background-size: cover;
   background-position: bottom;
 }
@@ -63,7 +63,7 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
-  
+
   header {
     width: 100%;
   }
@@ -77,5 +77,5 @@ footer {
     margin-bottom: 20px;
     margin-left: 5%;
   }
-  
+
 }
